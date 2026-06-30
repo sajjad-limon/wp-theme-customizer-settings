@@ -1,1 +1,1 @@
-WordPress themes customizer Register, Display value and managing all types of fields all details.
+WordPress themes customizer Register, Display value and managing all types of fields everything documentation.
